@@ -24,7 +24,7 @@ Create a solution that addresses the following needs in access to health care: -
 Build a solution that enables doctors to gain real-time access to a patient’s vital signs from anywhere in the world. The solution should allow doctors to gauge a patient’s condition to determine whether hospitalization is necessary. The solution can also provide general medical assistance and will be especially useful in
 cases of emergencies.
 
-### Some screenshots from the app
+## Some screenshots from the app
 #### Home
 ![home](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i1.jpg)
 
