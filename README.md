@@ -25,10 +25,23 @@ Build a solution that enables doctors to gain real-time access to a patient’s 
 cases of emergencies.
 
 ### Some screenshots from the app
+#### Home
 ![home](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i1.jpg)
+
+#### Registration for the doctor
 ![register](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i2.jpg)
+
+#### Available Doctors
 ![doctors](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i4.jpg)
+
+#### Patient send a message
 ![patient message](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i6.jpg)
+
+#### Massege recieved from the patient
 ![patient info](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i7.jpg)
+
+#### First Aid
 ![first aid](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i8.jpg)
-[News](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i9.jpg)
+
+#### News
+![News](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i9.jpg)
