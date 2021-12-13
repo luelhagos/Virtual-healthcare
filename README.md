@@ -25,10 +25,10 @@ Build a solution that enables doctors to gain real-time access to a patient’s 
 cases of emergencies.
 
 ### Some screenshots from the app
-[home](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i1.jpg)
-[register](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i2.jpg)
-[doctors](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i4.jpg)
-[patient message](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i6.jpg)
-[patient info](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i7.jpg)
-[first aid](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i8.jpg)
+![home](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i1.jpg)
+![register](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i2.jpg)
+![doctors](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i4.jpg)
+![patient message](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i6.jpg)
+![patient info](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i7.jpg)
+![first aid](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i8.jpg)
 [News](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i9.jpg)
