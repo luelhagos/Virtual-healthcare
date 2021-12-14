@@ -26,7 +26,7 @@ cases of emergencies.
 
 ## Information about the files
 * __[project](https://github.com/luelhagos/Virtual-healthcare/tree/main/project)__: folder contains source code for the application.
-* __[screenshots](https://github.com/luelhagos/Virtual-healthcare/tree/main/screenshots)__: forlder contains some screenshots of the application
+* __[screenshots](https://github.com/luelhagos/Virtual-healthcare/tree/main/screenshots)__: folder contains some screenshots of the application
 
 ## Some screenshots from the App
 #### Home
