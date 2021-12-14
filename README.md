@@ -29,7 +29,7 @@ cases of emergencies.
 * __[screenshots](https://github.com/luelhagos/Virtual-healthcare/tree/main/screenshots)__: folder contains some screenshots of the application
 
 ## Some screenshots from the App
-#### Home
+#### Home Page
 ![home](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/home.jpg)
 
 #### Registration for the doctor
