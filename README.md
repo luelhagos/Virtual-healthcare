@@ -26,7 +26,7 @@ cases of emergencies.
 
 ## Some screenshots from the app
 #### Home
-![home](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i1.jpg)
+![home](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/home.jpg)
 
 #### Registration for the doctor
 ![register](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i2.jpg)
