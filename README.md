@@ -31,6 +31,9 @@ cases of emergencies.
 #### Registration for the doctor
 ![register](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i2.jpg)
 
+#### Login for  doctor
+![login](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/login.jpg)
+
 #### Available Doctors
 ![doctors](https://github.com/luelhagos/Virtual-healthcare/blob/main/screenshots/i4.jpg)
 
